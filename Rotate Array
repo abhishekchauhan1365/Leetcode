@@ -1,0 +1,40 @@
+🧠 Intuition
+We are given an array and a number k, and we are asked to rotate the array to the right by k steps. That means each element in the array moves k steps forward, and the ones that go past the end come back to the front.
+
+🚀 Approach
+First, we take modulo of k with array size n because rotating by n or n * any number times brings the array back to its original form.
+
+Create a temporary array (rotated) of the same size.
+
+For every index i in the original array, place the element at position (i + k) % n in the rotated array.
+
+Copy the rotated array back into the original array.
+
+⏱️ Time Complexity
+O(n) — We iterate through the array twice (2n steps).
+
+🧠 Space Complexity
+O(n) — We use an extra array of size n.
+
+✅ C++ Code
+cpp
+Copy
+Edit
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        int n = nums.size();
+        k = k % n;  // To handle k > n
+        vector<int> rotated(n);
+
+        // Place each element at its rotated position
+        for (int i = 0; i < n; i++) {
+            rotated[(i + k) % n] = nums[i];
+        }
+
+        // Copy back to the original array
+        for (int i = 0; i < n; i++) {
+            nums[i] = rotated[i];
+        }        
+    }
+};

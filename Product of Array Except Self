@@ -1,0 +1,41 @@
+✅ Intuition:
+For each index, multiply the product of all elements before it (left pass)
+
+Then multiply with the product of all elements after it (right pass)
+
+No division used. Time-efficient and space-optimized.
+
+⏱ Time Complexity:
+O(n) for left pass
+
+O(n) for right pass
+→ Total: O(n)
+
+📦 Space Complexity:
+O(1) extra space (excluding output array)
+
+// LeetCode 238: Product of Array Except Self
+// Technique: Prefix and Suffix Product (Left-Right Accumulation)
+
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+
+        // Step 1: Store product of all elements to the left of each index
+        ans[0] = 1;
+        for (int i = 1; i < n; i++) {
+            ans[i] = ans[i - 1] * nums[i - 1];
+        }
+
+        // Step 2: Multiply with product of all elements to the right
+        int right = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            ans[i] = ans[i] * right;
+            right = right * nums[i];
+        }
+
+        return ans;
+    }
+};

@@ -37,8 +37,13 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | ------- |
 | [0796-rotate-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->

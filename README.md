@@ -27,10 +27,12 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |

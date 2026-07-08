@@ -32,6 +32,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -48,4 +49,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

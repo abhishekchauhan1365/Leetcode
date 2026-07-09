@@ -53,4 +53,20 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

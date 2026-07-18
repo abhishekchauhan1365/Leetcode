@@ -39,6 +39,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -49,6 +50,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
@@ -97,4 +99,12 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

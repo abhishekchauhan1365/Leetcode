@@ -59,6 +59,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +108,9 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

@@ -52,6 +52,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
@@ -60,6 +61,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math

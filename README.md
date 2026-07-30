@@ -118,4 +118,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

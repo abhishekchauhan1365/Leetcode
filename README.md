@@ -35,6 +35,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -60,6 +61,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +85,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking

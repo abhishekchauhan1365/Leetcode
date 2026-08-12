@@ -51,6 +51,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -62,6 +63,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -128,4 +130,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0595-big-countries](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0595-big-countries) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1683-invalid-tweets) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

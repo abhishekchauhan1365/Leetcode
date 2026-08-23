@@ -40,6 +40,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -60,6 +61,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -140,4 +142,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

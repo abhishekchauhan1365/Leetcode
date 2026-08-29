@@ -69,6 +69,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -147,4 +148,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

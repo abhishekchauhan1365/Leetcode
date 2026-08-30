@@ -68,6 +68,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0274-h-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0274-h-index) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
@@ -152,4 +154,8 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0724-find-pivot-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

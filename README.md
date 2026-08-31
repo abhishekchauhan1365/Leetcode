@@ -36,6 +36,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -67,6 +68,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0274-h-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +131,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |

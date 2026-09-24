@@ -33,6 +33,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0078-subsets) |
@@ -149,6 +151,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |

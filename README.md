@@ -48,6 +48,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [0796-rotate-string](https://github.com/abhishekchauhan1365/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekchauhan1365/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2942-find-words-containing-character](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repo contains my personal C++ implementations of various coding problems Iâ
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2942-find-words-containing-character](https://github.com/abhishekchauhan1365/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
